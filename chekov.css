@@ -74,9 +74,11 @@
     color: white;
     text-align: center;
     padding: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 50%;
 }
 
 .bottom-navbar a {
