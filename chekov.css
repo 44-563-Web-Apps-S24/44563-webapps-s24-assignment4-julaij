@@ -68,4 +68,19 @@
     border: 2px solid #3498db;
     transition: box-shadow 0.3s ease-in-out, border 0.3s ease-in-out;
   }
-  
+
+.bottom-navbar {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bottom-navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
