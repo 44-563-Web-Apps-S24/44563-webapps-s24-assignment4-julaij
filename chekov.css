@@ -1,0 +1,32 @@
+.speech {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #000000;
+  }
+  .direction {
+    font-family: 'Verdana', sans-serif;
+    font-size: 18px;
+    color: #000000;
+    background-color: #f4f4f4;
+  }
+  .direction:hover {
+    background-color: #3498db;
+    color: #ffffff;
+  }
+  .zinaida {
+    color: #ff3366;
+  }
+  
+  .martha {
+    color: #3399ff;
+  }
+  
+  .first_guest {
+    color: #99cc00;
+  }
+  
+  .gabriel {
+    color: #ff9900;
+  }
+  
+    
